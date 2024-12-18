@@ -1,4 +1,4 @@
-# 🗂️ Base64 Encoding and Decoding Project
+# 🗂️ Quoted-Printable Encoding and Decoding Project
 
 ## 📋 Описание проекта
 Этот проект реализует **алгоритма кодирования/декодирования Quoted-Printable** на языке **C++**.  
