@@ -23,8 +23,8 @@ Quoted-Printable предполагает конвертацию всех сим
 Quoted-Printable-lab-work/
 │
 ├── main.cpp               # Исходный код программы
-├── decoded.cpp            # Текст для кодирования
-├── encoded.cpp            # Закодированный текст
+├── encoded.cpp            # Текст для кодирования
+├── decoded.cpp            # Закодированный текст
 └── README.md              # Описание проекта
 ```
 ---
